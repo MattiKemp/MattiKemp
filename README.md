@@ -6,13 +6,14 @@
 
 🌱 I’m currently learning ...
 - machine learning
-- more advanced algorithms
-- more advanced data structures
+- advanced algorithms
+- advanced data structures
 - the proper way to organize projects
 - better development tools
+- React
 
 💞️ I’m looking to collaborate on ...
-- really anything that will be beneficial to people
+- really anything that will be beneficial to people :)
 
 📫 How to reach me ...
 - mkemp4@uiowa.edu
