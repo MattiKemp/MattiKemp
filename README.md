@@ -2,7 +2,7 @@
 
 👀 I’m interested in ..
 - full stack development
-- open source
+- open source projects
 
 🌱 I’m currently learning ...
 - machine learning
